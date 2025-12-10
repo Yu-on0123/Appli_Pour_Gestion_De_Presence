@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57560729708",
+    "project_id": "gestion-presences-5896e",
+    "storage_bucket": "gestion-presences-5896e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57560729708:android:5046a6fd508a92e563b049",
+        "android_client_info": {
+          "package_name": "ayb.com.gestion_des_presences"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Cy3tAO1p3OsvNZf89-4ksp4sl00r3aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
