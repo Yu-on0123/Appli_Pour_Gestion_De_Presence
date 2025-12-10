@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gestion_des_presences
 
 Ce projet a pour but d'améliorer le processus de gestion des présences
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Appli_Pour_Gestion_De_Presence
+Cette application a été conçu dans le but d'améliorer la gestion traditionnelle des présences 
+>>>>>>> 88c3c5538981eeedff049848c881b82d29ed2fef
